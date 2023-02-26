@@ -3,10 +3,11 @@
 A simple and light programming language for basic problem solving and calculation.
 
 ## Commands to create compiler
+```
 bison -d 1807066.y
 flex 1807066.l
 gcc -o output lex.yy.c 1807066.tab.c
-
+```
 ## Project Report
 [1807066.docx](https://github.com/MrArgho/Pie-Programming-Language/files/10834298/1807066.docx)
 
