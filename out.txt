@@ -1,0 +1,66 @@
+single line comment
+multiple_line_comment
+
+Variable  declaration Successful
+
+arghoA := 66	
+
+Your given arghoXY is NOT declared before
+
+
+forLoop index: 1 3 5 7 9 11 13 15 17 19 
+output of FORLoop = 46
+For Loop DONE
+
+whileLoop index: 0 1 2 3 4 
+output of whileLoop = 62
+While Loop DONE
+
+
+
+Result =  12
+Switch DONE
+
+
+IF segment Not executed
+
+IF segment output: 66
+
+ELSE segment output: 2
+
+innerELSE segment output: 11
+
+outerIF segment output: 11
+
+elseIF segment output: 7
+
+LCM = 6
+GCD = 3
+MAX = 5
+MIN = 4
+sum of (3 + 5) = 8
+
+'13' is a Prime number
+'66' is not a Prime number
+SQUAREROOT of 15 = 3.872983
+Factorial of 5 = 120
+
+sine of 45.000000 is 0.707108
+cosine of 45.000000 is 0.707105
+tangent of 45.000000 is 1.000004
+
+
+mod (5,4) = 1
+
+
+Function Declared
+
+Incement result: 67
+Decement result: 65
+Not result: 0
+
+Expression Output = 1
+
+Expression Output = -2
+
+  ..................Compiler Project Done........... :D
